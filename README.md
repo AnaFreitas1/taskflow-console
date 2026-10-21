@@ -7,4 +7,7 @@ Aplicação em C# (.NET 10) desenvolvida para gerenciar tarefas em memória, gar
    ```bash
    dotnet build
 dotnet run --project TaskFlow.Console
+
 dotnet test
+## Autora
+-**Ana Carolina de Sousa Freitas**
